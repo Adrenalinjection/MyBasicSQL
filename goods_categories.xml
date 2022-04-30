@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+
+<Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ss:ID="s27">
+  <Font x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="s21">
+  <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ss:ID="s22">
+  <NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ss:ID="s23">
+  <NumberFormat ss:Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet ss:Name="Sheet1">
+  <ss:Table>
+   <ss:Row>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">id_categories</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">categories_name</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">categories_description</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">creation_date</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">id_employee_created</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">deleted</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">deleted_date</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">id_employee_deleted</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">display_recommendations</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">num</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">display_condition_recommendations</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Сильная личность</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Работа с внутренним состоянием&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2016-11-28T18:16:31.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Эффективное мышление</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Сила мысли&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2016-11-28T18:16:55.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Путь к деньгам</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Финансовая грамотность и бизнес-обучение&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2016-11-28T18:17:40.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Рождение таланта</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Творчество и креатив&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2016-11-28T18:18:14.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">6</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Мастер общения</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Взаимоотношения с людьми&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2016-11-28T18:18:44.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">6</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Крепкое здоровье</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Контакт с телом&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2016-11-28T18:19:09.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Онлайн-тренинги</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;онлайн-тренинги под руководством коучей&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2017-08-18T16:53:50.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Клуб клиентов</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Клуб клиентов Константина Шереметьева&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2017-08-18T16:54:06.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Коучинг</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Индивидуальные консультации&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2017-08-18T16:54:20.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">11</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">11</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Программирование</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;программирование&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2018-11-20T12:27:39.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">12</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Курсы других авторов</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Курсы других авторов&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2018-12-10T16:15:23.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">13</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">13</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Иностранный язык</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Курсы иностранного языка по методике Константин</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2020-06-19T12:48:56.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">22</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">14</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Профессии (Арнион)</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Длительные курсы в Арнион&lt;/p&gt;&#10;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2021-01-19T18:21:03.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">22</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Анализ и обработка Данных</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Одна из профессий Арнион</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2021-05-16T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">22</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">16</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Анализ и обработка Данных</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">&lt;p&gt;Одна из профессий Арнион&lt;/p&gt;</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2021-05-16T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">22</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="String">0000-00-00 00:00:00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </Worksheet>
+</Workbook>
